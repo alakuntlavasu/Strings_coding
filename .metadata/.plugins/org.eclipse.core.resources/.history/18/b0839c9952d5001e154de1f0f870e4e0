@@ -1,0 +1,19 @@
+package Strings_coding;
+
+public class ReverseString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		String s="Alakuntla";
+		
+		char [] chArr =s.toCharArray();
+		
+		for(int i=0;i<=chArr.length-1;i--) {
+			System.out.println(chArr[0]);
+			
+		}
+	}
+
+}

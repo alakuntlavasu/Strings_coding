@@ -1,0 +1,10 @@
+package Strings_coding;
+
+public class RemoDupChars {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
